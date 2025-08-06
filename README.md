@@ -55,6 +55,34 @@
 
 
 
+The task was created on 06-08-2025.
+
+
+<img width="691" height="109" alt="image" src="https://github.com/user-attachments/assets/7005fbe2-bd63-45db-a1f3-8465bb5205ae" />
+
+
+
+
+<img width="759" height="76" alt="image" src="https://github.com/user-attachments/assets/0c6e0c95-f382-4c5e-9107-4b72ab4e040c" />
+
+
+
+
+
+<img width="745" height="82" alt="image" src="https://github.com/user-attachments/assets/01bba40d-3430-42a4-8a68-5c4f8a4d7360" />
+
+
+
+
+<img width="736" height="88" alt="image" src="https://github.com/user-attachments/assets/70fdaf19-0609-4625-afd0-f87323db4571" />
+
+
+
+
+
+
+
+
 
 
 
