@@ -79,6 +79,15 @@ The task was created on 06-08-2025.
 
 
 
+# 🩺 System Health Check Script
+
+
+<img width="1207" height="357" alt="image" src="https://github.com/user-attachments/assets/bd3f9e49-b926-4b80-aebc-75245ed24564" />
+
+
+
+
+
 
 
 
