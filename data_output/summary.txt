@@ -1,0 +1,3 @@
+Summary of Processed Files:
+Hello.txt	Lines: 18	Words: 116
+Text.txt	Lines: 16	Words: 45

@@ -1,0 +1,20 @@
+temp is a temporary solution.
+
+temp should not be used in production code.
+
+replace temp with a more robust implementation.
+
+Replace all instances of the word temp with permanent.
+
+I will ensure that my code is efficient and scalable.
+
+# I will document my code thoroughly.
+
+# I will test my code to ensure it works as expected.
+
+# temp is not suitable for critical applications.
+
+temp can lead to unexpected behavior.
+
+#temp should be avoided in favor of permanent solutions.
+

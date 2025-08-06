@@ -1,0 +1,16 @@
+permanent is a permanentorary solution.
+
+permanent should not be used in production code.
+
+replace permanent with a more robust implementation.
+
+Replace all instances of the word permanent with permanent.
+
+I will ensure that my code is efficient and scalable.
+
+
+
+
+permanent can lead to unexpected behavior.
+
+
